@@ -1,2 +1,2 @@
 # eventbrite-api
-basic eventbrite api
+a basic eventbrite api that connects some eventbrite services.
